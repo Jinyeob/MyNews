@@ -1,5 +1,5 @@
 # MyNews
-android - 뉴스앱 (JSON, Fresco, Volley)
+android - 뉴스앱
 
 http://newsapi.org
 
